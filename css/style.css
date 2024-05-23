@@ -11,22 +11,13 @@ h1 {
 	text-align: center;
 	font-size: 210%;
 }
-
-div.card sides {
+div.card {
 	border: 1px solid black;
 	background-color: lightgrey;
 	margin-left: 15px;
 	margin-top: 0px;
 	margin-bottom: 30px;
-}
 
-div.card sandwiches {
-	border: 1px solid black;
-	background-color: lightgrey;
-	size: .sides
-	margin-left: 15px;
-	margin-top: 0px;
-	margin-bottom: 30px;
 div.tab {
 	float: left;
 	border-right: 1px solid black;
