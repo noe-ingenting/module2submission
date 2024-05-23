@@ -22,7 +22,7 @@ div.card {
 
 div.tab {
 	float: left;
-	border-left: 1px solid black;
+	border-right: 1px solid black;
 	border-bottom:  1px solid black;
 	font-size: 135%;
 	font-weight: bold;
