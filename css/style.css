@@ -21,7 +21,7 @@ div.card {
 }
 
 div.tab {
-	float: right;
+	float: left;
 	border-left: 1px solid black;
 	border-bottom:  1px solid black;
 	font-size: 135%;
