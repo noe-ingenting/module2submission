@@ -40,6 +40,7 @@ div.description {
 
 .sides {
 	background-color: #1EFF67;
+	padding: 2px;
 	border-bottom: 1px solid black;
 
 }
@@ -47,7 +48,7 @@ div.description {
 .sandwiches {
 	background-color: #38B0D6;
 	color: white;
-	outline: black;
+	padding: 2px;
 	border-bottom: 1px solid black;
 
 }
@@ -55,7 +56,7 @@ div.description {
 .specials {
 	background-color: #FF8872;
 	color: white;
-	padding: 10px;
+	padding: 5px;
 	border-bottom: 1px solid black;
 }
 
