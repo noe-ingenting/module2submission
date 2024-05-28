@@ -47,11 +47,14 @@ div.description {
 .sandwiches {
 	background-color: #B6FF1E;
 	color: white;
+	outline: black;
+	border-bottom: 1px solid black;
 
 }
 
 .specials {
 	background-color: #33A3FF;
+	border-bottom: 1px solid black;
 }
 
 
