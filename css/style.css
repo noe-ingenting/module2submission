@@ -55,6 +55,7 @@ div.description {
 .specials {
 	background-color: #FF8872;
 	color: white;
+	padding: 10px;
 	border-bottom: 1px solid black;
 }
 
