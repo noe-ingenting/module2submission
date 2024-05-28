@@ -47,6 +47,7 @@ div.description {
 
 .sandwiches {
 	background-color: #38B0D6;
+	float; right 10px;
 	color: white;
 	padding: 2px;
 	border-bottom: 1px solid black;
